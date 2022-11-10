@@ -1,0 +1,16 @@
+Library/
+build/
+Temp/
+ExportedObj/
+obj/
+*.meta
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+ProjectSettings/ProjectVersion.txt
